@@ -46,14 +46,14 @@ div.item img{
     max-width: 300px;
     border-radius: 10px;
 }
-h2{
+h1{
     color: var(--white);
     font-family: var(--font-family);
     font-size: var(--font-size-paragraph);
     font-weight: 600;
     cursor: pointer;
 }
-h2:hover{
+h1:hover{
     color:var(--cyan);
     transition:.2s all linear;
 }
